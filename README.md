@@ -141,7 +141,7 @@ Project Link: [https://github.com/elliottnick/VirtualPrinterPCLtoPDF](https://gi
 [stars-url]: https://github.com/elliottnick/VirtualPrinterPCLtoPDF/stargazers
 [issues-shield]: https://img.shields.io/github/issues/elliottnick/VirtualPrinterPCLtoPDF
 [issues-url]: https://github.com/elliottnick/VirtualPrinterPCLtoPDF/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/elliottnick/VirtualPrinterPCLtoPDF
+[license-url]: https://github.com/elliottnick/VirtualPrinterPCLtoPDF/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nick-elliott
